@@ -10,7 +10,7 @@
 * Link of Deployed application assignment- https://tiny-blancmange-c1e56d.netlify.app/
 * Link of Group's project repository - https://git.cs.dal.ca/vaishwi/group_7_csci5709
 * Link of personal branch in Group's Repository - https://git.cs.dal.ca/vaishwi/group_7_csci5709/-/tree/deep_B00931783
-* Link of github repository - https://github.com/Deep-Debug/
+* Link of github repository - https://github.com/Deep-Debug/a1
 
 *Access for the individual repository has been given to
 Prof. Gabriella Mosquera @mosquera - via email

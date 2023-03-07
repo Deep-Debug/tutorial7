@@ -6,7 +6,7 @@
 
 ### Submissions
 
-* Link of Individual Repository tutorial4- https://git.cs.dal.ca/dkdave/csci5709/-/tree/tutorial4
+* Link of Individual Repository tutorial4- https://git.cs.dal.ca/dkdave/csci5709/-/tree/t4
 * Link of Deployed application tutorial4- https://monumental-fairy-7c8490.netlify.app/
 * Link of Group's project repository - https://git.cs.dal.ca/vaishwi/group_7_csci5709
 * Link of personal branch in Group's Repository - https://git.cs.dal.ca/vaishwi/group_7_csci5709/-/tree/deep_B00931783

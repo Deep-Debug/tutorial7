@@ -12,14 +12,11 @@ db = client.test
 @app.route('/users', methods=['POST'])
 def create_user_in_db():
     data = request.get_json()
-    if 'id' not in data:
-        return "Please enter id"
-    elif 'firstName' not in data:
-        return "Please enter firstName"
-    elif 'email' not in data:
-        return "Please enter email"
-    db.users.insert_one(data)
-    return jsonify({'message': 'User created successfully.', 'success': True})
+    if 'id' in data and 'email' in data and 'firstName' in data':
+        db.users.insert_one(data)
+        return jsonify({'message': 'User created successfully.', 'success': True})
+    else:
+        return jsonify({'message': 'Please enter id, email and firstName', 'success': False})
 
 
 @app.route('/users', methods=['GET'])

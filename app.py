@@ -21,6 +21,7 @@ def get_all_users_from_db():
     users = db.users.find()
     response = []
     for user in users:
+        print(user,"user>>>>")
         response.append({'id': user['id'], 'email': user['email'], 'firstName': user['firstName']})
     return jsonify({'message': response, 'success': True})
 
